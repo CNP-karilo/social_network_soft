@@ -1,2 +1,4 @@
 # social_network_soft
 大二暑假实训csi基于人脸识别的社交应用开发
+
+application.yml文件需要自己修改
